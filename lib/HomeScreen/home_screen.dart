@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           children: [
             Row(
-              children: [],
+              crossAxisAlignment: CrossAxisAlignment.start,
             ),
           ],
         ),
